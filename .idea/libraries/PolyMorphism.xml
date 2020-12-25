@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PolyMorphism">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test/PolyMorphism.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
